@@ -1,7 +1,7 @@
 # Exploration of Transfer Learning Techniques for the Prediction of PM<sub>10</sub>
 
 
-**Author:** Michael Poelzl, Roman Kern, Simonas Kecorius, Mario Lovrić 
+**Authors:** Michael Poelzl, Roman Kern, Simonas Kecorius, Mario Lovrić 
 **Year:** 2024
 
 
